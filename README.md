@@ -1,4 +1,4 @@
-### Nutzungsbedingungen & Datenschutz für "Elite Bot"
+### Nutzungsbedingungen & Datenschutz für "EliteStore"
 **1. Anerkennung der Bedingungen**
 Mit dem Hinzufügen, Nutzen oder Interagieren mit dem "Elite Bot" auf einem Discord-Server stimmst du diesen Nutzungsbedingungen automatisch zu. Wenn du mit diesen Bedingungen nicht einverstanden bist, musst du den Bot unverzüglich von deinem Server entfernen.
 **2. Nutzungsvoraussetzungen und Einschränkungen**
